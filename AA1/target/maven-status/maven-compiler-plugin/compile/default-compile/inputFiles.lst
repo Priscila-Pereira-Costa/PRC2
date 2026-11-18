@@ -1,0 +1,15 @@
+/home/mariafagundes/Documentos/AA1_P/AA1/src/main/java/Main.java
+/home/mariafagundes/Documentos/AA1_P/AA1/src/main/java/dao/Conexao.java
+/home/mariafagundes/Documentos/AA1_P/AA1/src/main/java/dao/ContaDAO.java
+/home/mariafagundes/Documentos/AA1_P/AA1/src/main/java/dao/TransferenciaDAO.java
+/home/mariafagundes/Documentos/AA1_P/AA1/src/main/java/dao/TransferenciaService.java
+/home/mariafagundes/Documentos/AA1_P/AA1/src/main/java/exception/SaldoInsuficienteException.java
+/home/mariafagundes/Documentos/AA1_P/AA1/src/main/java/model/Conta.java
+/home/mariafagundes/Documentos/AA1_P/AA1/src/main/java/model/TipoTarifa.java
+/home/mariafagundes/Documentos/AA1_P/AA1/src/main/java/model/Transferencia.java
+/home/mariafagundes/Documentos/AA1_P/AA1/src/main/java/strategy/TarifaFixaStrategy.java
+/home/mariafagundes/Documentos/AA1_P/AA1/src/main/java/strategy/TarifaIsentaStrategy.java
+/home/mariafagundes/Documentos/AA1_P/AA1/src/main/java/strategy/TarifaPercentualStrategy.java
+/home/mariafagundes/Documentos/AA1_P/AA1/src/main/java/strategy/TarifaStrategyFactory.java
+/home/mariafagundes/Documentos/AA1_P/AA1/src/main/java/strategy/TarifaTransferenciaStrategy.java
+/home/mariafagundes/Documentos/AA1_P/AA1/src/main/java/ui/PrincipalFrame.java
