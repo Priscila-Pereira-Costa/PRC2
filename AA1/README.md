@@ -1,4 +1,4 @@
-# Gabarito – Avaliação Prática CARPRC2
+#  Projeto CARPRC2
 
 Projeto de referência para a avaliação prática de Programação de Computadores 2.
 
